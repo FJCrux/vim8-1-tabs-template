@@ -4,11 +4,11 @@
   flex-direction: row;
   margin-bottom: 10px;
 }
-.tabs__title {
+.tab__title {
   display: inline-block;
   padding: 5px;
   cursor: pointer;
 }
-.tabs__title--active {
+.tab__title--active {
   border-bottom: 2px solid #ff2222;
 }
